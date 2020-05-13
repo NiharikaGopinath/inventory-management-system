@@ -1,4 +1,4 @@
-# inventory-management-system
+# Inventory Management System
 Project made for Software Engineering and Project Management Course during my fourth semester at University.
 The software was built using Python (Tkinter package).
 It is aimed at solving the warehouse issues of small retail shops.
